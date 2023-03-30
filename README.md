@@ -3,7 +3,7 @@
 
 ### Try it out
 
-<p  align="center">
+<p  align="left">
 QR Code Component based on frontend mentor design.
 <a  href="https://verribeiro.github.io/QRCodeComponent/">View a project demo</a>
 </p>
